@@ -61,44 +61,44 @@ http://192.168.31.1:7088/rtp/239.77.0.85:5146
 http://192.168.31.1:7088/rtp/239.77.0.217:5146
 #EXTINF:-1 tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="广东",广东综艺
 http://192.168.31.1:7088/rtp/239.77.0.245:5146
+#EXTINF:-1 tvg-name="广东移动" tvg-logo=" " group-title="广东",广东移动
+http://192.168.31.1:7088/rtp/239.77.0.20:5146
+#EXTINF:-1 tvg-name="广州综合" tvg-logo=" " group-title="广东",广州综合
+http://192.168.31.1:7088/rtp/239.253.43.71:5146
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo=" " group-title="广东",广州新闻
+http://192.168.31.1:7088/rtp/239.253.43.72:5146
+#EXTINF:-1 tvg-name="广州影视" tvg-logo=" " group-title="广东",广州影视
+http://192.168.31.1:7088/rtp/239.253.43.73:5146
+#EXTINF:-1 tvg-name="广州法治" tvg-logo=" " group-title="广东",广州法治
+http://192.168.31.1:7088/rtp/239.253.43.74:5146
 #EXTINF:-1 tvg-name="南国都市" tvg-logo=" " group-title="广东",南国都市
 http://192.168.31.1:7088/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-name="南方购物" tvg-logo=" " group-title="广东",南方购物
 http://192.168.31.1:7088/rtp/239.77.0.19:5146
-#EXTINF:-1 tvg-name="广东移动" tvg-logo=" " group-title="广东",广东移动
-http://192.168.31.1:7088/rtp/239.77.0.20:5146
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo=" " group-title="广东",岭南戏曲
 http://192.168.31.1:7088/rtp/239.77.0.16:5146
 #EXTINF:-1 tvg-name="现代教育" tvg-logo=" " group-title="广东",现代教育
 http://192.168.31.1:7088/rtp/239.77.0.18:5146
+#EXTINF:-1 tvg-name="深圳都市" tvg-logo=" " group-title="广东",深圳都市
+http://192.168.31.1:7088/rtp/239.77.1.176:5146
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo=" " group-title="广东",深圳电视剧
+http://192.168.31.1:7088/rtp/239.77.1.177:5146
+#EXTINF:-1 tvg-name="深圳财经生活" tvg-logo=" " group-title="广东",深圳财经生活
+http://192.168.31.1:7088/rtp/239.77.1.242:5146
+#EXTINF:-1 tvg-name="深圳体育健康" tvg-logo=" " group-title="广东",深圳体育健康
+http://192.168.31.1:7088/rtp/239.77.1.128:5146
+#EXTINF:-1 tvg-name="深圳少儿" tvg-logo=" " group-title="广东",深圳少儿
+http://192.168.31.1:7088/rtp/239.77.1.244:5146
+#EXTINF:-1 tvg-name="深圳宝安" tvg-logo=" " group-title="广东",深圳宝安
+http://192.168.31.1:7088/rtp/239.77.1.67:5146
+#EXTINF:-1 tvg-name="深圳龙岗" tvg-logo=" " group-title="广东",深圳龙岗
+http://192.168.31.1:7088/rtp/239.77.1.223:5146
+#EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo=" " group-title="广东",深圳宜和购物
+http://192.168.31.1:7088/rtp/239.77.1.87:5146
 #EXTINF:-1 tvg-name="梅州-1" tvg-logo=" " group-title="广东",梅州-1
 http://192.168.31.1:7088/rtp/239.253.43.123:5146
 #EXTINF:-1 tvg-name="客家生活" tvg-logo=" " group-title="广东",客家生活
 http://192.168.31.1:7088/rtp/239.253.43.124:5146
-#EXTINF:-1 tvg-name="广州综合" tvg-logo=" " group-title="广州电视台",广州综合
-http://192.168.31.1:7088/rtp/239.253.43.71:5146
-#EXTINF:-1 tvg-name="广州新闻" tvg-logo=" " group-title="广州电视台",广州新闻
-http://192.168.31.1:7088/rtp/239.253.43.72:5146
-#EXTINF:-1 tvg-name="广州影视" tvg-logo=" " group-title="广州电视台",广州影视
-http://192.168.31.1:7088/rtp/239.253.43.73:5146
-#EXTINF:-1 tvg-name="广州法治" tvg-logo=" " group-title="广州电视台",广州法治
-http://192.168.31.1:7088/rtp/239.253.43.74:5146
-#EXTINF:-1 tvg-name="深圳都市" tvg-logo=" " group-title="深圳电视台",深圳都市
-http://192.168.31.1:7088/rtp/239.77.1.176:5146
-#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo=" " group-title="深圳电视台",深圳电视剧
-http://192.168.31.1:7088/rtp/239.77.1.177:5146
-#EXTINF:-1 tvg-name="深圳财经生活" tvg-logo=" " group-title="深圳电视台",深圳财经生活
-http://192.168.31.1:7088/rtp/239.77.1.242:5146
-#EXTINF:-1 tvg-name="深圳体育健康" tvg-logo=" " group-title="深圳电视台",深圳体育健康
-http://192.168.31.1:7088/rtp/239.77.1.128:5146
-#EXTINF:-1 tvg-name="深圳少儿" tvg-logo=" " group-title="深圳电视台",深圳少儿
-http://192.168.31.1:7088/rtp/239.77.1.244:5146
-#EXTINF:-1 tvg-name="深圳宝安" tvg-logo=" " group-title="深圳电视台",深圳宝安
-http://192.168.31.1:7088/rtp/239.77.1.67:5146
-#EXTINF:-1 tvg-name="深圳龙岗" tvg-logo=" " group-title="深圳电视台",深圳龙岗
-http://192.168.31.1:7088/rtp/239.77.1.223:5146
-#EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo=" " group-title="深圳电视台",深圳宜和购物
-http://192.168.31.1:7088/rtp/239.77.1.87:5146
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo=" " group-title="卫视",大湾区卫视
 http://192.168.31.1:7088/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
